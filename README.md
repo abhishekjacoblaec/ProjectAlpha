@@ -1,2 +1,2 @@
 # ProjectAlpha
-Basics of Git Lab
+Basics of Git Lab - by Abhishek Jacob
